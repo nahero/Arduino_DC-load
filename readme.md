@@ -1,4 +1,4 @@
-###Arduino based DC load project for testing power supplies.
+# Arduino based DC load project for testing power supplies
 
 Should provide Constant Current, Constant Voltage and Constant Resistance modes.
 
